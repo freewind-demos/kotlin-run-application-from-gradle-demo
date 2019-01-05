@@ -1,5 +1,5 @@
-Kotlin Hello World Demo
-=======================
+Kotlin Run Application from Gradle Demo
+=======================================
 
 Run Kotlin main class from gradle.
 
@@ -8,13 +8,3 @@ Run Kotlin main class from gradle.
 ```
 
 You will see "Hello, Kotlin!" from console.
-
-Run tests:
-
-```
-./gradlew test
-```
-
-You will see test result from console.
-
-
